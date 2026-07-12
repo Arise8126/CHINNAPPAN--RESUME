@@ -136,8 +136,8 @@ console.log(chinnappan.motto());
 
 | Certification | Issuer |
 |---|---|
-| C Programming Certification | *(add issuing platform, e.g. Coursera / NPTEL)* |
-| Ethical Hacking Certification | *(add issuing platform)* |
+| C Programming Certification | * infosys springboard certificate * |
+| Ethical Hacking Certification | *Unstop certificate * |
 
 </div>
 
