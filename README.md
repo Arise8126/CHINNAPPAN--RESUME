@@ -68,7 +68,6 @@ console.log(chinnappan.motto());
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
 </p>
 
-> *Note: Cloud, DevOps, and database tools aren't part of my current skill set yet — actively working on expanding this stack as I learn.*
 
 ---
 
@@ -125,8 +124,6 @@ console.log(chinnappan.motto());
 <p align="center">
 <a href="https://github.com/Arise8126/AI-CIVIC-APP-"><img src="https://img.shields.io/badge/Repo-AI--CIVIC--APP-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-
-> *Add tech stack badges and screenshots to this section once the repo README is polished.*
 
 ---
 
